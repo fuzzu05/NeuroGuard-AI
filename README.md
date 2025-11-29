@@ -62,7 +62,7 @@ pip install -r requirements.txt
 Or manually:
 
 ```
-pip install pandas numpy scikit-learn tensorflow flask
+pip install pandas numpy scikit-learn tensorflow flask matplotlib twilio
 ```
 
 ---
