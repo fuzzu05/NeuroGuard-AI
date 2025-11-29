@@ -65,6 +65,13 @@ Or manually:
 pip install pandas numpy scikit-learn tensorflow flask matplotlib twilio
 ```
 
+### 3️⃣ Download the data set
+**Use the following link to download the data set used to train this AI model.**
+
+https://drive.google.com/file/d/1pmui3cxufXjOeDW1Y0PR5fz4OuqTfYtb/view?usp=drivesdk
+
+**paste this dataset into NeuroGuardAI folder as data/emotions.csv**
+
 ---
 
 ## ▶️ Running the Application
