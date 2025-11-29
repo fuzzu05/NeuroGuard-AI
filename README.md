@@ -1,6 +1,6 @@
 # 🧠 NeuroGuard AI — Real-Time EEG Disease Detection
 
-NeuroGuard AI is a real-time EEG-based detection system that analyzes brainwave patterns to identify neurological conditions such as **seizures, Alzheimer’s, Parkinson’s**, and more. The system uses deep learning models trained on EEG datasets and processes live or uploaded EEG signals to generate predictions instantly.
+NeuroGuard AI is a real-time EEG-based detection system that analyzes brainwave patterns to identify neurological conditions such as **seizures, Alzheimer’s, Parkinson’s**, and more. The system uses deep learning models trained on EEG datasets and processes live or uploaded EEG signals to generate predictions instantly. It uses **Explainable ai (xAI)** to determine the anomalies from the eeg graphs and explains the reasoning behind it.
 
 ---
 
